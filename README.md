@@ -1,4 +1,3 @@
-
 # ASSIGNMENT 2 
 ## Socket Programming TCP Group Chat
 
@@ -47,4 +46,4 @@ Next, create the write function to run a while loop. Server is listening all tim
 
 Lastly, we create two threads, one for the receive and other for the write method.
 
-<img src="">
+
